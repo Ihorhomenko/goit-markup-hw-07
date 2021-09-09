@@ -1,0 +1,18 @@
+.logo {
+  padding-top: 24px;
+  padding-bottom: 25px;
+  margin-right: 93px;
+
+  color: $acent-color;
+  font-family: raleway, sans-serif;
+
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+
+  .logo__text {
+    color: $header-text-color;
+  }
+}

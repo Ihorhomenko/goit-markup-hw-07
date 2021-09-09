@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,EAAE,CAAC;EACD,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,CAAC;EACT,UAAU,EAAE,IAAI;CACjB;;AEJD,AAAA,UAAU,CAAC;EACT,KAAK,EAAE,MAAM;EACb,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;EAClB,YAAY,EAAE,IAAI;EAClB,aAAa,EAAE,IAAI;CACpB;;AAED,AAAA,iBAAiB,CAAC;EAChB,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;CACpB;;ACXD,AAAA,QAAQ,CAAC;EACP,WAAW,EAAE,IAAI;EACjB,cAAc,EAAE,IAAI;CACrB;;ACHD,AAAA,YAAY,CAAC;EACX,aAAa,EAAE,iBAAiB;CACjC;;ACFD,AAAA,KAAK,CAAC;EACJ,WAAW,EAAE,IAAI;EACjB,cAAc,EAAE,IAAI;EACpB,YAAY,EAAE,IAAI;EAElB,KAAK,EJDO,OAAO;EIEnB,WAAW,EAAE,mBAAmB;EAEhC,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,GAAG;EAChB,WAAW,EAAE,GAAG;EAChB,cAAc,EAAE,MAAM;EACtB,eAAe,EAAE,IAAI;CAKtB;;AAjBD,AAcE,KAdG,CAcH,WAAW,CAAC;EACV,KAAK,EJZW,OAAO;CIaxB",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/utils/_reset.scss",
+        "../sass/utils/_variable.scss",
+        "../sass/components/_conteiner.scss",
+        "../sass/components/_section.scss",
+        "../sass/components/_header.scss",
+        "../sass/components/_logo.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
